@@ -76,7 +76,7 @@ OPENAI_API_KEY=your-openai-api-key
 .
 ├── main.py                 # Slack bot app with all features
 ├── save_ticket_details.py # Script to embed & cache Jira tickets
-├── stored_tickets.json    # Ticket data with embeddings
+├── store_ticket_info.py  
 ├── requirements.txt
 └── .env                   # Your secrets (not tracked in Git)
 ```
