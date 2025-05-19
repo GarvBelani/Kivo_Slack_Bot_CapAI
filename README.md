@@ -1,4 +1,4 @@
-# 🧠 Slack-Jira GPT Bot
+# 🧠 Kivo Slack-Jira GPT Bot
 
 This Slack bot integrates with Jira and OpenAI to help you:
 - Create Jira tickets using natural language
