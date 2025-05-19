@@ -1,0 +1,6 @@
+slack_bolt
+python-dotenv
+openai
+requests
+faiss-cpu
+numpy

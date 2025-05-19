@@ -1,0 +1,35 @@
+# created by virtualenv automatically
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+
+# Secrets or config
+*.log
+*.db
+*.sqlite3
+stored_tickets.json
+stored_ticket_details.json
+config.json
+
+# VSCode
+.vscode/
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
+
+# FAISS index files (if persisted)
+*.index
+
