@@ -14,7 +14,7 @@ This Slack bot integrates with Jira and OpenAI to help you:
 
 ```bash
 git clone https://github.com/GarvBelani/Kivo_Slack_Bot_CapAI.git
-cd slack-jira-gpt-bot
+cd Kivo_Slack_Bot_CapAI
 ```
 
 ### 2. Create and activate virtual environment (recommended)
